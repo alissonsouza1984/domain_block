@@ -13,292 +13,269 @@
 #
 # ===============================================================
 
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-127.0.0.1 local
-255.255.255.255 broadcasthost
-::1 localhost
-::1 ip6-localhost
-::1 ip6-loopback
-fe80::1%lo0 localhost
-ff00::0 ip6-localnet
-ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0
-
-# Custom host records are listed here.
 
 
-# End of custom host records.
-# Start alissonsouza1984
-
-#=====================================
-# Title: Hosts contributed by alisson souza
-
-
-0.0.0.0 pornhub.com
-0.0.0.0 www.pornhub.com
-0.0.0.0 www.xvideos.com
-0.0.0.0 xvideos.com 
-0.0.0.0 planetsuzy.com  
-0.0.0.0 videosx.pro 
-0.0.0.0 www.hotgirlclub.com 
-0.0.0.0 pornobae.com
-0.0.0.0 palmtube.com
-0.0.0.0 taxi69.com  
-0.0.0.0 xvideos18.blog.br   
-0.0.0.0 pornobrasil.blog.br 
-0.0.0.0 www.pornktu.be  
-0.0.0.0 xvideosx.com.br 
-0.0.0.0 www.pornomineiro.com
-0.0.0.0 porn4days.biz   
-0.0.0.0 www.porn300.com 
-0.0.0.0 cliphunter.com  
-0.0.0.0 xvidios.blog
-0.0.0.0 xvideos10.blog.br   
-0.0.0.0 porn-plus.com   
-0.0.0.0 xvidios.xxx 
-0.0.0.0 www.porngo.com  
-0.0.0.0 xisvideos.net   
-0.0.0.0 filmespornos.net
-0.0.0.0 xvideo.vlog.br  
-0.0.0.0 rclove.com.br   
-0.0.0.0 sexu.com
-0.0.0.0 xvideospornor.com   
-0.0.0.0 xvideosbrasil.com.br
-0.0.0.0 ilhadoprazer.com.br 
-0.0.0.0 xvideosporno.blog.br
-0.0.0.0 mundosexanuncio.com 
-0.0.0.0 pornone.com 
-0.0.0.0 xxx.com 
-0.0.0.0 xvideos-xxx.com 
-0.0.0.0 pornogram.xxx   
-0.0.0.0 rcmodells.com.br
-0.0.0.0 xkeezmovies.com 
-0.0.0.0 www.hd-easyporn.com 
-0.0.0.0 www.cumlouder.com   
-0.0.0.0 xvideosbrasil.com   
-0.0.0.0 xvideosbrasileiro.net   
-0.0.0.0 www.sextvx.com  
-0.0.0.0 beeg.com
-0.0.0.0 xmoviesforyou.com   
-0.0.0.0 xvideotravestis.com 
-0.0.0.0 xvideos18.com.br
-0.0.0.0 xxvideoss.org   
-0.0.0.0 xvideostop.org  
-0.0.0.0 siska.video 
-0.0.0.0 xxxfree.watch   
-0.0.0.0 www.porndish.com
-0.0.0.0 malicia.com.br  
-0.0.0.0 www.freudbox.com
-0.0.0.0 mangoporn.net   
-0.0.0.0 xvideos-tv.com  
-0.0.0.0 xvideos-hd.com  
-0.0.0.0 xvideosamadoras.com 
-0.0.0.0 pornonacionais.com  
-0.0.0.0 hclips.com  
-0.0.0.0 www.eporner.com 
-0.0.0.0 garotacomlocal.com  
-0.0.0.0 mileroticos.com 
-0.0.0.0 fatalmodel.com  
-0.0.0.0 www.pussyspace.com  
-0.0.0.0 xvideosnovinhas.com 
-0.0.0.0 sexyclube.uol.com.br
-0.0.0.0 xvideosgratuito.com 
-0.0.0.0 yourdailypornvideos 
-0.0.0.0 8muses.com  
-0.0.0.0 adultprime.com  
-0.0.0.0 alphaporno.com  
-0.0.0.0 amopornobr.com  
-0.0.0.0 analized.com
-0.0.0.0 aoflix.com  
-0.0.0.0 babes.com   
-0.0.0.0 badoinkvr.com   
-0.0.0.0 bangbros.com
-0.0.0.0 br.skokka.com   
-0.0.0.0 brasileirinhas.com.br   
-0.0.0.0 brazzer.com 
-0.0.0.0 brazzers.com
-0.0.0.0 caiunoxvideos.com.br
-0.0.0.0 cam4.com
-0.0.0.0 cameraprive.com 
-0.0.0.0 cams.com
-0.0.0.0 camsoda.com 
-0.0.0.0 camvideos.org   
-0.0.0.0 candy.ai
-0.0.0.0 cherrypimps.com 
-0.0.0.0 classiaqui.com.br   
-0.0.0.0 collectionofbestporn.com
-0.0.0.0 daftsex.com 
-0.0.0.0 digitalplayground.com   
-0.0.0.0 dirtyship.com   
-0.0.0.0 efukt.com   
-0.0.0.0 ellas4.com  
-0.0.0.0 empflix.com 
-0.0.0.0 en.paradisehill.cc  
-0.0.0.0 enjoyx.com  
-0.0.0.0 eroprofile.com  
-0.0.0.0 erosguia.com.br 
-0.0.0.0 erotik.com  
-0.0.0.0 fapdu.com   
-0.0.0.0 filthflix.com   
-0.0.0.0 freeporn8.com   
-0.0.0.0 fuckingawesomenetwork.com   
-0.0.0.0 godude.link 
-0.0.0.0 hellporno.com   
-0.0.0.0 hentaied.pro
-0.0.0.0 hentaistube.com 
-0.0.0.0 hookuphotshot.com   
-0.0.0.0 hotmovs.com 
-0.0.0.0 hqporner.com
-0.0.0.0 hussiepass.com  
-0.0.0.0 javhd.com   
-0.0.0.0 javmost.com 
-0.0.0.0 joysporn.vip
-0.0.0.0 keezmovies.com  
-0.0.0.0 l.clips4sale.com
-0.0.0.0 landing.adultmobile.com 
-0.0.0.0 landing.babesnetwork.com
-0.0.0.0 landing.bangbrosnetwork.com 
-0.0.0.0 landing.brazzersnetwork.com 
-0.0.0.0 landing.digitalplaygroundnetwork.com
-0.0.0.0 landing.fakehub.com 
-0.0.0.0 landing.iknowthatgirl.com   
-0.0.0.0 landing.letsdoeit.com   
-0.0.0.0 landing.milfed.com  
-0.0.0.0 landing.mofosnetwork.com
-0.0.0.0 landing.propertysex.com 
-0.0.0.0 landing.rk.com  
-0.0.0.0 landing.teenslovehugecocks.com  
-0.0.0.0 livejasmin.com  
-0.0.0.0 loboporno.com   
-0.0.0.0 luxuretv.com
-0.0.0.0 m.perfectgirls.net  
-0.0.0.0 madthumbs.com   
-0.0.0.0 mofosex.com 
-0.0.0.0 monster-tube.com
-0.0.0.0 morangovip.com.br   
-0.0.0.0 motherless.com  
-0.0.0.0 moviefap.com
-0.0.0.0 mundohentaioficial.com  
-0.0.0.0 mydirtyhobby.com
-0.0.0.0 netvideogirls.com   
-0.0.0.0 nudevista.com   
-0.0.0.0 nudostar.com
-0.0.0.0 pandamovies.pw  
-0.0.0.0 paradisehill.cc 
-0.0.0.0 perfectgirls.net
-0.0.0.0 plusone8.com
-0.0.0.0 porn.com
-0.0.0.0 porncor.com 
-0.0.0.0 porndoe.com 
-0.0.0.0 porndude.com
-0.0.0.0 pornhat.com 
-0.0.0.0 pornmd.com  
-0.0.0.0 pornovideoshub.com  
-0.0.0.0 pornoxo.com 
-0.0.0.0 pornrabbit.com  
-0.0.0.0 porntitan.com   
-0.0.0.0 pornvibe.org
-0.0.0.0 pornwild.to 
-0.0.0.0 pussy.com   
-0.0.0.0 realgirls.fun   
-0.0.0.0 realitykings.com
-0.0.0.0 redtube.com 
-0.0.0.0 rule34.xxx  
-0.0.0.0 sambaporno.com  
-0.0.0.0 sexlog.com  
-0.0.0.0 sexmex.xxx  
-0.0.0.0 sexo.uol.com.br 
-0.0.0.0 sexvideos.host  
-0.0.0.0 sexyhot.globo.com   
-0.0.0.0 sexyhub.com 
-0.0.0.0 sexymt.com.br   
-0.0.0.0 socialmediagirls.com
-0.0.0.0 spankbang.party 
-0.0.0.0 thisvid.com 
-0.0.0.0 tnaflix.com 
-0.0.0.0 trueanal.com
-0.0.0.0 tube8.com   
-0.0.0.0 tubegalore.com  
-0.0.0.0 tubepornclassic.com 
-0.0.0.0 tv.fakings.com  
-0.0.0.0 txxx.com
-0.0.0.0 usexvideos.com  
-0.0.0.0 veporno.net 
-0.0.0.0 vidoz8.com  
-0.0.0.0 www.3movs.com   
-0.0.0.0 www.4tube.com   
-0.0.0.0 www.analdin.com 
-0.0.0.0 www.definebabe.com  
-0.0.0.0 www.ellxx.com   
-0.0.0.0 www.freeomovie.to   
-0.0.0.0 www.fux.com 
-0.0.0.0 www.gotporn.com 
-0.0.0.0 www.ixxx.com
-0.0.0.0 www.laraporn.com
-0.0.0.0 www.likuoo.video
-0.0.0.0 www.nuvid.com   
-0.0.0.0 www.pornhd.com  
-0.0.0.0 www.pornhits.com
-0.0.0.0 www.porntrex.com
-0.0.0.0 www.sexvid.xxx  
-0.0.0.0 www.slutload.com
-0.0.0.0 www.sunporno.com
-0.0.0.0 www.thumbzilla.com  
-0.0.0.0 www.xfreehd.com 
-0.0.0.0 www.xvideosf.com
-0.0.0.0 x18tube.com 
-0.0.0.0 xvid3os.blog.br 
-0.0.0.0 xvideo.blog 
-0.0.0.0 xvideo.tv.br
-0.0.0.0 xvideoporno.net 
-0.0.0.0 xvideos-4k.com  
-0.0.0.0 xvideos.es  
-0.0.0.0 xvideos.etc.br  
-0.0.0.0 xvideos.eu.org  
-0.0.0.0 xvideos5.com.br 
-0.0.0.0 xvideoson.com   
-0.0.0.0 xvideosx.blog.br
-0.0.0.0 xvideosxxx.com.br   
-0.0.0.0 xxxfiles.com
-0.0.0.0 yespornplease.com   
-0.0.0.0 youjizz.com 
-0.0.0.0 youporn.com 
-0.0.0.0 youporngay.com  
-0.0.0.0 photoacompanhantes.com  
-0.0.0.0 xnxx.com
-0.0.0.0 onlyfans.com
-0.0.0.0 playboy.com 
-0.0.0.0 kaktuz.com  
-0.0.0.0 porndig.com 
-0.0.0.0 boafoda.com 
-0.0.0.0 theporndude.com 
-0.0.0.0 hustlertube.com 
-0.0.0.0 pornocarioca.com
-0.0.0.0 drtuber.com 
-0.0.0.0 vrporn.com  
-0.0.0.0 xvideosnovinha.com  
-0.0.0.0 pornflip.com
-0.0.0.0 tushy.com   
-0.0.0.0 xhamster.com
-0.0.0.0 pornodoido.com  
-0.0.0.0 porn555.com 
-0.0.0.0 pornky.com  
-0.0.0.0 festadoprazer.com   
-0.0.0.0 pichunter.com   
-0.0.0.0 fullxxxmovies.net   
-0.0.0.0 orgasm.com  
-0.0.0.0 tubxporn.com
-0.0.0.0 xvidio.com  
-0.0.0.0 lovelyclips.com 
-0.0.0.0 fuq.com 
-0.0.0.0 porn00.org  
-0.0.0.0 garotaporno.com 
-0.0.0.0 xvidio.com.br   
-0.0.0.0 porntube.com
-0.0.0.0 faphouse.com
-0.0.0.0 lubetube.com
-0.0.0.0 animeshentai.biz
+pornhub.com
+www.pornhub.com
+www.xvideos.com
+xvideos.com 
+planetsuzy.com  
+videosx.pro 
+www.hotgirlclub.com 
+pornobae.com
+palmtube.com
+taxi69.com  
+xvideos18.blog.br   
+pornobrasil.blog.br 
+www.pornktu.be  
+xvideosx.com.br 
+www.pornomineiro.com
+porn4days.biz   
+www.porn300.com 
+cliphunter.com  
+xvidios.blog
+xvideos10.blog.br   
+porn-plus.com   
+xvidios.xxx 
+www.porngo.com  
+xisvideos.net   
+filmespornos.net
+xvideo.vlog.br  
+rclove.com.br   
+sexu.com
+xvideospornor.com   
+xvideosbrasil.com.br
+ilhadoprazer.com.br 
+xvideosporno.blog.br
+mundosexanuncio.com 
+pornone.com 
+xxx.com 
+xvideos-xxx.com 
+pornogram.xxx   
+rcmodells.com.br
+xkeezmovies.com 
+www.hd-easyporn.com 
+www.cumlouder.com   
+xvideosbrasil.com   
+xvideosbrasileiro.net   
+www.sextvx.com  
+beeg.com
+xmoviesforyou.com   
+xvideotravestis.com 
+xvideos18.com.br
+xxvideoss.org   
+xvideostop.org  
+siska.video 
+xxxfree.watch   
+www.porndish.com
+malicia.com.br  
+www.freudbox.com
+mangoporn.net   
+xvideos-tv.com  
+xvideos-hd.com  
+xvideosamadoras.com 
+pornonacionais.com  
+hclips.com  
+www.eporner.com 
+garotacomlocal.com  
+mileroticos.com 
+fatalmodel.com  
+www.pussyspace.com  
+xvideosnovinhas.com 
+sexyclube.uol.com.br
+xvideosgratuito.com 
+yourdailypornvideos 
+8muses.com  
+adultprime.com  
+alphaporno.com  
+amopornobr.com  
+analized.com
+aoflix.com  
+babes.com   
+badoinkvr.com   
+bangbros.com
+br.skokka.com   
+brasileirinhas.com.br   
+brazzer.com 
+brazzers.com
+caiunoxvideos.com.br
+cam4.com
+cameraprive.com 
+cams.com
+camsoda.com 
+camvideos.org   
+candy.ai
+cherrypimps.com 
+classiaqui.com.br   
+collectionofbestporn.com
+daftsex.com 
+digitalplayground.com   
+dirtyship.com   
+efukt.com   
+ellas4.com  
+empflix.com 
+en.paradisehill.cc  
+enjoyx.com  
+eroprofile.com  
+erosguia.com.br 
+erotik.com  
+fapdu.com   
+filthflix.com   
+freeporn8.com   
+fuckingawesomenetwork.com   
+godude.link 
+hellporno.com   
+hentaied.pro
+hentaistube.com 
+hookuphotshot.com   
+hotmovs.com 
+hqporner.com
+hussiepass.com  
+javhd.com   
+javmost.com 
+joysporn.vip
+keezmovies.com  
+l.clips4sale.com
+landing.adultmobile.com 
+landing.babesnetwork.com
+landing.bangbrosnetwork.com 
+landing.brazzersnetwork.com 
+landing.digitalplaygroundnetwork.com
+landing.fakehub.com 
+landing.iknowthatgirl.com   
+landing.letsdoeit.com   
+landing.milfed.com  
+landing.mofosnetwork.com
+landing.propertysex.com 
+landing.rk.com  
+landing.teenslovehugecocks.com  
+livejasmin.com  
+loboporno.com   
+luxuretv.com
+m.perfectgirls.net  
+madthumbs.com   
+mofosex.com 
+monster-tube.com
+morangovip.com.br   
+motherless.com  
+moviefap.com
+mundohentaioficial.com  
+mydirtyhobby.com
+netvideogirls.com   
+nudevista.com   
+nudostar.com
+pandamovies.pw  
+paradisehill.cc 
+perfectgirls.net
+plusone8.com
+porn.com
+porncor.com 
+porndoe.com 
+porndude.com
+pornhat.com 
+pornmd.com  
+pornovideoshub.com  
+pornoxo.com 
+pornrabbit.com  
+porntitan.com   
+pornvibe.org
+pornwild.to 
+pussy.com   
+realgirls.fun   
+realitykings.com
+redtube.com 
+rule34.xxx  
+sambaporno.com  
+sexlog.com  
+sexmex.xxx  
+sexo.uol.com.br 
+sexvideos.host  
+sexyhot.globo.com   
+sexyhub.com 
+sexymt.com.br   
+socialmediagirls.com
+spankbang.party 
+thisvid.com 
+tnaflix.com 
+trueanal.com
+tube8.com   
+tubegalore.com  
+tubepornclassic.com 
+tv.fakings.com  
+txxx.com
+usexvideos.com  
+veporno.net 
+vidoz8.com  
+www.3movs.com   
+www.4tube.com   
+www.analdin.com 
+www.definebabe.com  
+www.ellxx.com   
+www.freeomovie.to   
+www.fux.com 
+www.gotporn.com 
+www.ixxx.com
+www.laraporn.com
+www.likuoo.video
+www.nuvid.com   
+www.pornhd.com  
+www.pornhits.com
+www.porntrex.com
+www.sexvid.xxx  
+www.slutload.com
+www.sunporno.com
+www.thumbzilla.com  
+www.xfreehd.com 
+www.xvideosf.com
+x18tube.com 
+xvid3os.blog.br 
+xvideo.blog 
+xvideo.tv.br
+xvideoporno.net 
+xvideos-4k.com  
+xvideos.es  
+xvideos.etc.br  
+xvideos.eu.org  
+xvideos5.com.br 
+xvideoson.com   
+xvideosx.blog.br
+xvideosxxx.com.br   
+xxxfiles.com
+yespornplease.com   
+youjizz.com 
+youporn.com 
+youporngay.com  
+photoacompanhantes.com  
+xnxx.com
+onlyfans.com
+playboy.com 
+kaktuz.com  
+porndig.com 
+boafoda.com 
+theporndude.com 
+hustlertube.com 
+pornocarioca.com
+drtuber.com 
+vrporn.com  
+xvideosnovinha.com  
+pornflip.com
+tushy.com   
+xhamster.com
+pornodoido.com  
+porn555.com 
+pornky.com  
+festadoprazer.com   
+pichunter.com   
+fullxxxmovies.net   
+orgasm.com  
+tubxporn.com
+xvidio.com  
+lovelyclips.com 
+fuq.com 
+porn00.org  
+garotaporno.com 
+xvidio.com.br   
+porntube.com
+faphouse.com
+lubetube.com
+animeshentai.biz
